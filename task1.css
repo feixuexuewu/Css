@@ -1,5 +1,3 @@
 html,body,div{ margin:0; padding: 0; }
-html{ height: 100%; }
-body{ height: 100%; }
-.bg{ width: 100%; height: 100%; padding: 20px 0; background-color: #fff; overflow: hidden;}
+.bg{ width: 100%; background-color: #fff; overflow: hidden;}
 .box{ width:28%; background-color: #ffa600; padding-top:28%; margin: 4% 0 0 4%; border-radius: 6px; float: left; }
